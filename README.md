@@ -22,4 +22,4 @@ gulp watch
 
 # Current Version : 1.0.0
 
-Please remenber to update the version number in _config.yml
+Please remember to update the version number in `_config.yml`
